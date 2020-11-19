@@ -25,6 +25,7 @@ An example of the output looks like this:
 
 These functions reproject the ATM Qfit elevation data, drape it over the classified DMS images, and label each ATM point into one of the classes listed above.  Also included are functions to plot the two datasets (to make nice pictures!)
 
+The labelled ATM data can be used to compute a sea surface height (from lead points) and total freeboard.
+
 ![ATM Data over DMS](atm_dms_fig.png)
 
-The labelled ATM data can be used to compute a sea surface height (from lead points) and total freeboard.
