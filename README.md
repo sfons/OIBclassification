@@ -19,7 +19,7 @@ These functions utilize a *simple* red-band histogram modal thresholding approac
   3. White/snow-covered sea ice
   
 An example of the output looks like this:
-![Classified Sea Ice](oib_class_output.png)
+![Classified Sea Ice](input/oib_class_output.png)
 
 ### ATM Labelling
 
@@ -27,5 +27,5 @@ These functions reproject the ATM Qfit elevation data, drape it over the classif
 
 The labelled ATM data can be used to compute a sea surface height (from lead points) and total freeboard.
 
-![ATM Data over DMS](atm_dms_fig.png)
+![ATM Data over DMS](input/atm_dms_fig.png)
 
