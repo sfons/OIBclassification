@@ -13,7 +13,7 @@ For an introduction, check out the jupyter notebook file [Classify_DMS_Example](
 ### DMS Imagery Classification
 
 These functions utilize a *simple* red-band histogram modal thresholding approach to classify the sea ice imagery into 4 distinct classes:
-  0. N/A or boarder pixels
+  0. N/A or border pixels
   1. Open water
   2. Young/gray sea ice
   3. White/snow-covered sea ice
